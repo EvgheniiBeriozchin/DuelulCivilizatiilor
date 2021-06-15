@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\AttackingState.cs">
+    <Files>
+      <File FileName="Assets\Scripts\AttackingState.cs" Line="26" Column="27" />
+      <File FileName="Assets\Scripts\AdditionalPointsDistributionState.cs" Line="37" Column="93" />
+      <File FileName="Assets\Scripts\NamingState.cs" Line="37" Column="63" />
+      <File FileName="Assets\Scripts\GameSystem.cs" Line="113" Column="2" />
+      <File FileName="Assets\Scripts\FortifyState.cs" Line="23" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
